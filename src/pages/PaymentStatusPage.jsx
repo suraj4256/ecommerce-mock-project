@@ -30,7 +30,7 @@ const PaymentStatusPage = () => {
 
   return (
     <div style={{
-      backgroundColor: "black",
+      backgroundColor: "grey",
       height: "100vh",
       display: "flex",
       justifyContent: "center",
