@@ -1,0 +1,53 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "category": "men",
+        "name": "Men's T-Shirt",
+        "description": "A comfortable cotton t-shirt.",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "category": "men",
+        "name": "Men's Jeans",
+        "description": "Stylish denim jeans.",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 3,
+        "category": "women",
+        "name": "Women's Dress",
+        "description": "A lovely summer dress.",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 4,
+        "category": "women",
+        "name": "Women's Top",
+        "description": "A trendy top for casual wear.",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 5,
+        "category": "kids",
+        "name": "Kids' T-Shirt",
+        "description": "A fun t-shirt for kids.",
+        "price": 14.99,
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 6,
+        "category": "kids",
+        "name": "Kids' Shorts",
+        "description": "Cool shorts for summer.",
+        "price": 24.99,
+        "image": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  
